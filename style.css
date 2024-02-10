@@ -1,0 +1,35 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: hsl(212, 45%, 89%);
+    max-width: 1440px;
+    min-width: 375px;
+    font-family: 'Outfit', sans-serif;
+}
+
+.container{
+    background-color: hsl(0, 0%, 100%);
+    display: grid;
+    margin: auto;
+    margin-top: 40px;
+    width: 250px;
+    height: 400px;
+    border-radius: 30px;
+    padding: 10px;
+}
+.img-box{
+    /* margin: 22px 22px 10px 22px; */
+    border-radius: 30px;
+    text-align: center;
+}
+h5{
+    font-size: larger;
+    font-weight: 700px;
+}
+p{
+    font-size: 15px;
+    font-weight: 400px;
+}
+.text-box{
+    text-align: center;
+}
