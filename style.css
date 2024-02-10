@@ -11,7 +11,7 @@ body{
     background-color: hsl(0, 0%, 100%);
     display: grid;
     margin: auto;
-    margin-top: 80px !important;
+    margin-top: 120px !important;
     width: 250px;
     height: 400px;
     border-radius: 30px;
